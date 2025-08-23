@@ -1,0 +1,1 @@
+Welcome to my public learning journey through Python and MLOps! I’m following Krish Naik's End-to-End MLOps Bootcamp on Udemy, documenting my progress, code, and insights as I go. This repo is a space to share, learn, and grow—feel free to explore, suggest improvements, or collaborate!
